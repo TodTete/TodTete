@@ -1,6 +1,8 @@
 <h1 align="center">Profile of Ricardo Vallejo Sánchez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;DevOps+Engineer;AWS+Developer+Associate)](https://git.io/typing-svg)
+
 
 <br>
 
@@ -14,11 +16,10 @@
 
 - :technologist: I love using Software as a solution for every `Problem`.
 <br>
-
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
-
-
+<br>
+<br>
+<br>
+<br>
 
 ## <picture>  </picture> Connect with me
 <p align="center">
