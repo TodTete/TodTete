@@ -14,7 +14,7 @@
 
 <br><br>
 
-- :technologist: I love using Software as a solution for every `Problem`.
+- :technologist: I’m currently pursuing a degree in `Software Development Engineering`, which has provided me with a strong academic and practical foundation in web application projects. My current focus is on mobile development, where I’ve applied my skills in dynamic and challenging environments. I’m driven by a passion for innovation, continuous learning, and professional growth, and I thrive in collaborative team settings.
 <br>
 <br>
 <br>
