@@ -112,19 +112,27 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
-<br> 
+<br> ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px></picture> Github Stats
 
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3>📁 My Repositories</h3></summary>
 
 ----
-	
-<div>
-  <p align="center">
-  </p>
-</div>
+
+### 📌 Repositorios destacados
+
+- [**ETHCDMX2025**](https://github.com/TodTete/ETHCDMX2025)  
+  Proyecto en TypeScript para conversión de valores.
+
+- [**Laravel-Cursos**](https://github.com/TodTete/Laravel-Cursos)  
+  Plataforma de cursos utilizando Laravel y Node.js.
+
+- [**Proyecto-Angular**](https://github.com/TodTete/Proyecto-Angular)  
+  Conversor de valores desarrollado con Angular y Material Design.
+
+- [**Salud-Python**](https://github.com/TodTete/Salud-Python)  
+  Proyecto en TeX relacionado con salud.
+
 </details>
+
 
 </br></br>	
