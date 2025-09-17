@@ -74,13 +74,14 @@ Me motiva la **innovación**, el **aprendizaje continuo** y el **crecimiento pro
 <summary><h3>📂 Repositorios Destacados</h3></summary>
 
 - [**ETHCDMX2025**](https://github.com/TodTete/ETHCDMX2025)  
-  Proyecto en TypeScript para conversión de valores.
+	Ganador del 2do Lugar en el ETH 5 Mayo 2025 CDMX en el track Scroll
 
 - [**Laravel-Cursos**](https://github.com/TodTete/Laravel-Cursos)  
   Plataforma de cursos utilizando Laravel y Node.js.
 
 - [**Proyecto-Angular**](https://github.com/TodTete/Proyecto-Angular)  
   Conversor de valores desarrollado con Angular y Material Design.
+  Proyecto en TypeScript para conversión de valores.
 
 - [**Salud-Python**](https://github.com/TodTete/Salud-Python)  
   Proyecto en TeX relacionado con salud.
