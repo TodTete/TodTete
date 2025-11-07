@@ -8,7 +8,7 @@
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-Soy estudiante de **Ingeniería en Desarrollo de Software**, con sólida formación académica y práctica en el desarrollo de aplicaciones web y móviles.  
+Soy estudiante de **Ingeniería en Desarrollo de Software**, finalizando mis estudios en mayo del 2026, con sólida formación académica y práctica en el desarrollo de aplicaciones web y móviles.  
 Mi enfoque actual está orientado al desarrollo **mobile**, aplicando mis habilidades en entornos dinámicos y desafiantes.  
 Me motiva la **innovación**, el **aprendizaje continuo** y el **crecimiento profesional**, destacando en trabajos colaborativos y proyectos que aporten soluciones reales.
 
