@@ -1,4 +1,4 @@
-<h1 align="center">Perfil de Ricardo Vallejo Sánchez @TodTete</h1>
+<h1 align="center">Perfil de Ricardo Vallejo Sánchez <strong>@TodTete</strong></h1>
 
 [![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ingeniero+en+Desarrollo+de+Software;Desarrollador+Full+Stack;AWS+Developer+Associate)](https://git.io/typing-svg)
 
